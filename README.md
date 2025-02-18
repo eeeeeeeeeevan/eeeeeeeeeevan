@@ -111,3 +111,8 @@ aBYyd18nurk6lE0XJ2wTBiOTuize0HOSYUvNQTaBpDVWti1EfqQDXI3c4rx+
   
 </details>
 </blockquote>
+<div align=right>
+  <a href="soon">blog/schizopost/etc</a>
+</div>
+
+
