@@ -1,6 +1,6 @@
 <blockquote>
   <h3> evan </h3>
-  <kbd>very amateur security researcher and part-time schizophrenic gangstalker</kbd>
+ <!-- <kbd>very amateur security researcher and part-time schizophrenic gangstalker</kbd> too fucking lame-->
   <details>
   
   <summary>PGP</summary>
