@@ -111,8 +111,6 @@ aBYyd18nurk6lE0XJ2wTBiOTuize0HOSYUvNQTaBpDVWti1EfqQDXI3c4rx+
   
 </details>
 </blockquote>
-<div align=right>
-  <a href="https://repo1.dso.mil/trapdoor">my other git</a>
-</div>
+
 
 
