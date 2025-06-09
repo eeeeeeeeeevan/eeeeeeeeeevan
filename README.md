@@ -4,7 +4,7 @@
   <details>
   
   <summary>PGP</summary>
-from [keybase.io/kidnapping](https://keybase.io/kidnapping):
+from [https://keybase.io/kidnapping](keybase.io/kidnapping):
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
