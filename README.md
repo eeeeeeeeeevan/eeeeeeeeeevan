@@ -8,7 +8,7 @@
   <summary>PGP</summary>
 
 
-Refer to [http://archive.md/dQAZc](archive.md/dQAZc) for my public PGP key at this time
+Refer to [archive.md/dQAZc](https://archive.md/dQAZc) for my public PGP key at this time
 
 
 
